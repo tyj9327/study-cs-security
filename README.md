@@ -10,8 +10,7 @@
 
 ## 목차
 
-[참고 레포](https://github.com/Yooii-Studios/Clean-Code)를 참조하여 push한 md파일의 link를 여기에 목차 형식으로 달아주세요. 이 내용은 맨 처음 목차를 추가하는 분이 지워주세요
-
+[정보보호와 보안의 기초 - 1. 정보보호 및 컴퓨터 보안 개념](https://github.com/tyj9327/study-cs-security/blob/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EC%99%80%20%EB%B3%B4%EC%95%88%EC%9D%98%20%EA%B8%B0%EC%B4%88/1.%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%20%EB%B0%8F%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%B3%B4%EC%95%88%20%EA%B0%9C%EB%85%90.md)
 
 
 ## Resources
