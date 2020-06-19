@@ -10,8 +10,9 @@
 
 ## 목차
 
-[정보보호와 보안의 기초 - 1. 정보보호 및 컴퓨터 보안 개념](https://github.com/tyj9327/study-cs-security/blob/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EC%99%80%20%EB%B3%B4%EC%95%88%EC%9D%98%20%EA%B8%B0%EC%B4%88/1.%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%20%EB%B0%8F%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%B3%B4%EC%95%88%20%EA%B0%9C%EB%85%90.md)
-
+1. [정보보호 및 컴퓨터 보안 개념](https://github.com/tyj9327/study-cs-security/blob/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EC%99%80%20%EB%B3%B4%EC%95%88%EC%9D%98%20%EA%B8%B0%EC%B4%88/1.%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%20%EB%B0%8F%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%B3%B4%EC%95%88%20%EA%B0%9C%EB%85%90.md)
+2. [Web Security Model](https://github.com/tyj9327/study-cs-security/blob/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EC%99%80%20%EB%B3%B4%EC%95%88%EC%9D%98%20%EA%B8%B0%EC%B4%88/2.%20Web%20Security%20Model.md)
+3. [Securing Web applications](https://github.com/tyj9327/study-cs-security/blob/master/%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EC%99%80%20%EB%B3%B4%EC%95%88%EC%9D%98%20%EA%B8%B0%EC%B4%88/3.%20Securing%20Web%20Applications.md)
 
 ## Resources
 
