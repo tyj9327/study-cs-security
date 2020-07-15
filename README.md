@@ -15,6 +15,10 @@
 3. [Securing Web applications](https://github.com/tyj9327/study-cs-security/blob/master/computer-system-security/3.%20Securing%20Web%20Applications.md)
 4. [TCP/IP Security](https://github.com/tyj9327/study-cs-security/blob/master/computer-system-security/4.%20TCP_IP%20Security.md)
 5. [Kerberos](https://github.com/tyj9327/study-cs-security/blob/master/computer-system-security/5.%20Kerberos.md)
+6. [SSL and HTTPS](https://github.com/tyj9327/study-cs-security/blob/master/computer-system-security/6.%20SSL%20and%20HTTPS.md)
+
+
+
 
 ## Resources
 
